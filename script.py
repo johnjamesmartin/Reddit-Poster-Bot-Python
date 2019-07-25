@@ -19,8 +19,8 @@ url="http://worklad.co.uk/wp-content/uploads/2015/01/494692340292596844.jpg"
 
 # Post function:
 def post():
-	global subreddits
-	global pos
+  global subreddits
+  global pos
   global errors
 
   # Try submitting to the subreddits
